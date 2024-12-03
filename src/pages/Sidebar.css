@@ -1,0 +1,10 @@
+/* .dash1::before {
+    border-right: 1px solid red;
+    bottom: calc(0.5rem*2/2 + .75em + 0.5rem);
+    content: "";
+    left: calc();
+}  */
+
+.dash1>a {
+    color: "#676f7e";
+}
